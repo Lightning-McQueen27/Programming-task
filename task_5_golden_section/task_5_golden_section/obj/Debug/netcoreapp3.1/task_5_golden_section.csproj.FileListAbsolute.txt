@@ -1,0 +1,13 @@
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.csprojAssemblyReference.cache
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.AssemblyInfoInputs.cache
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.AssemblyInfo.cs
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.csproj.CoreCompileInputs.cache
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\bin\Debug\netcoreapp3.1\task_5_golden_section.exe
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\bin\Debug\netcoreapp3.1\task_5_golden_section.deps.json
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\bin\Debug\netcoreapp3.1\task_5_golden_section.runtimeconfig.json
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\bin\Debug\netcoreapp3.1\task_5_golden_section.runtimeconfig.dev.json
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\bin\Debug\netcoreapp3.1\task_5_golden_section.dll
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\bin\Debug\netcoreapp3.1\task_5_golden_section.pdb
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.dll
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.pdb
+D:\Project_coding_C#\programming-task\task_5_golden_section\task_5_golden_section\obj\Debug\netcoreapp3.1\task_5_golden_section.genruntimeconfig.cache

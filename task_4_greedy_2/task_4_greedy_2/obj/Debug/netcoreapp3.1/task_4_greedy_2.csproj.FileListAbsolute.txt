@@ -1,0 +1,13 @@
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\bin\Debug\netcoreapp3.1\task_4_greedy_2.exe
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\bin\Debug\netcoreapp3.1\task_4_greedy_2.deps.json
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\bin\Debug\netcoreapp3.1\task_4_greedy_2.runtimeconfig.json
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\bin\Debug\netcoreapp3.1\task_4_greedy_2.runtimeconfig.dev.json
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\bin\Debug\netcoreapp3.1\task_4_greedy_2.dll
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\bin\Debug\netcoreapp3.1\task_4_greedy_2.pdb
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.csprojAssemblyReference.cache
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.AssemblyInfoInputs.cache
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.AssemblyInfo.cs
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.csproj.CoreCompileInputs.cache
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.dll
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.pdb
+D:\Project_coding_C#\programming-task\task_4_greedy_2\task_4_greedy_2\obj\Debug\netcoreapp3.1\task_4_greedy_2.genruntimeconfig.cache

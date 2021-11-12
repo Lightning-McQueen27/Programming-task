@@ -1,0 +1,13 @@
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.exe
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.deps.json
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.runtimeconfig.json
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.runtimeconfig.dev.json
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.dll
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.pdb
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.csprojAssemblyReference.cache
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.AssemblyInfoInputs.cache
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.AssemblyInfo.cs
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.csproj.CoreCompileInputs.cache
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.dll
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.pdb
+D:\Project_coding_C#\programming-task\task-2-multipliers\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.genruntimeconfig.cache
